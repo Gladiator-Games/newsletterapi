@@ -1,6 +1,6 @@
 ## Newsletter Subscription Service
 
-_Created by Sanel Ryan @ Gladiator Games_
+_Created by [Sanel Ryan](https://github.com/SanelRyan) @ [Gladiator Games](https://gladiatorgames.xyz)_
 
 This is a Node.js application for managing newsletter subscriptions and unsubscribes. It utilizes Express.js for handling HTTP requests, MongoDB for data storage, Nodemailer for sending emails, and Express Rate Limit for limiting the number of requests.
 
