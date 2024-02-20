@@ -1,0 +1,20 @@
+{
+    "name": "newsletterapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.4.4",
+        "express": "^4.18.2",
+        "express-rate-limit": "^7.1.5",
+        "mongodb": "^6.3.0",
+        "nodemailer": "^6.9.9",
+        "winston": "^3.11.0"
+    }
+}
