@@ -28,6 +28,7 @@ This is a Node.js application for managing newsletter subscriptions and unsubscr
     URI=your_mongodb_uri
     FROM_EMAIL=your_from_email_address
     PORT=desired_port_number
+    COMPANY_NAME=your_company_name
     ```
 
 ### Usage
